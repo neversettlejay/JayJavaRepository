@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/home/jayusername/Desktop/Java/StsWorkspace/.metadata/.plugins/org.eclipse.jdt.core
+3701386420.index
+1865797976.index
+1081137307.index
